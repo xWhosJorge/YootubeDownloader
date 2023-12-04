@@ -2,7 +2,7 @@
 
 Este Script permite descargar videos desde YT de hasta 2160p
 
-![yootube](https://github.com/xWhosJorge/YootubeDownloader/assets/110436984/33b3c18a-a4fa-41a7-b6c7-49d78366ef55)
+![yootube](https://github.com/xWhosJorge/YootubeDownloader/assets/110436984/0db46ecf-1f3b-4eb1-9a5c-97da55d56d8e)
 
 ## Características
 * Descarga videos desde 360p hasta 2160p (Calidades disponibles del video ingresado)
